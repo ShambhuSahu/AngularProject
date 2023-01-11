@@ -1,0 +1,144 @@
+{
+  "Student": [
+
+    {
+
+      "studentId": 1,
+
+      "firstname": "shambhu",
+
+      "lastname": "sahu",
+
+      "email":"shambhusahu@gmail.com",
+
+      "mobile":9379037809
+
+    },
+
+    {
+
+      "studentId": 2,
+
+      "firstname": "shailesh",
+
+      "lastname": "karpe",
+
+      "email":"shaileshkarpe2018@gmail.com",
+
+      "mobile":9921223913
+
+    },
+
+    {
+
+      "studentId": 3,
+
+      "firstname": "saurabh",
+
+      "lastname": "kanwade",
+
+      "email":"saurabhkanwade30@gmail.com",
+
+      "mobile":8779122363
+
+    },
+
+    {
+
+    "studentId": 4,
+
+    "firstname": "Akash",
+
+    "lastname": "Aher",
+
+    "email":"akashaher11@gmail.com",
+
+    "mobile":9334352356
+
+  },
+
+  {
+
+    "studentId": 5,
+
+    "firstname": "Ajit",
+
+    "lastname": "Aher",
+
+    "email":"ajitaher2018@gmail.com",
+
+    "mobile":7218996911
+
+  },
+
+  {
+
+    "studentId": 6,
+
+    "firstname": "sagar",
+
+    "lastname": "Bhomale",
+
+    "email":"sagarbhomale30@gmail.com",
+
+    "mobile":7030156075
+
+  },
+
+  {
+
+  "studentId": 7,
+
+  "firstname": "Amol",
+
+  "lastname": "Bhomale",
+
+  "email":"amolbhomale@gmail.com",
+
+  "mobile":9373343523
+
+},
+
+{
+
+  "studentId": 8,
+
+  "firstname": "Nitin",
+
+  "lastname": "kokane",
+
+  "email":"nitinkokane2018@gmail.com",
+
+  "mobile":9921456534
+
+},
+
+{
+
+  "studentId": 9,
+
+  "firstname": "suraj",
+
+  "lastname": "aher",
+
+  "email":"surajaher30@gmail.com",
+
+  "mobile":8308485789
+
+},
+{
+
+  "studentId": 10,
+
+  "firstname": "rakesh",
+
+  "lastname": "aher",
+
+  "email":"surajaher30@gmail.com",
+
+  "mobile":8308485789
+
+}
+
+  ]
+}

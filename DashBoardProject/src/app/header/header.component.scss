@@ -1,0 +1,92 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  button{
+    border: none;
+    cursor: pointer;
+  }
+  button:hover{
+    color:blue;
+  }
+
+  .mat-toolbar{
+
+    position: sticky;
+    top:0px;
+    z-index:100;
+  }
+  
+  ul{
+    li{
+      list-style: none;
+    }
+  }
+  
+  button{
+    border: 0;
+    outline: none;
+    background: transparent;
+  }
+  
+  .user{
+    font-size: 14px;
+  }
+  
+  .user-image{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-right: 23px;
+    margin-top: 5px;
+  }
+
+  
+*{
+
+    position: sticky;
+  
+}
+.submit{
+  background-color:darkblue;
+  height: 40px;
+  width: 130px;
+  border-radius: 5px;
+  color: white;
+  position: relative;
+  margin-right: 12px;
+}
+// .submit:hover{
+//   background-color:green;
+//   color: red;
+
+// }
+.input1{
+  border-radius: 5px;
+  margin-right: 2px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input1:hover{
+background-color: black;
+color: white;
+font-style: italic;
+}
+
+.serach1{
+  position: relative;
+  margin-right: 210px;
+  
+}
+
+.apps{  
+margin-right: 170px;
+color:green;
+}
+
+.container1{
+position: sticky;
+top: 0;
+z-index: 2;
+padding: 5px;
+
+}

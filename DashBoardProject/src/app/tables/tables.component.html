@@ -1,0 +1,56 @@
+
+<mat-card class="card1">
+<mat-card-content>
+
+<mat-card class="card2" >
+
+    <mat-card-content >
+<table class="table table-bordered">
+  <thead>
+
+    <tr>
+
+      <th>StudentId</th>
+
+      <th>Firstname</th>
+
+      <th>Lastname</th>
+
+      <th>Email</th>
+
+      <th>Mobile</th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr *ngFor="let student of student">
+
+      <td>{{student.studentId}}</td>
+
+      <td>{{student.firstname}}</td>
+
+      <td>{{student.lastname}}</td>
+
+      <td>{{student.email}}</td>
+
+      <td>{{student.mobile}}</td>
+
+
+
+    </tr>
+
+  </tbody>
+
+
+
+</table>
+
+
+
+    </mat-card-content>
+  </mat-card>
+</mat-card-content>
+</mat-card>
