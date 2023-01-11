@@ -1,0 +1,129 @@
+$white:white;
+$grey:#757575;
+$lightblue: #3e2280;
+$black: black;
+
+
+
+
+
+  .container1{
+ background-color:$white ;
+  padding:  15px 0px;
+   height: 80px;
+   width: 100%;
+
+  }
+  .btn1{
+    border: none ;
+    background-color: $white;
+  }
+  .menu{
+    color: burlywood;
+  }
+  
+  .img1{
+    height: 35px;
+    width:50px;
+    position: relative;
+    margin-top: -10px;
+    margin-left: 40px;
+    
+  }
+ .div1
+ {
+position: relative;
+margin-left: 100px;
+
+ }
+ .srach1
+ {
+    height:35px;
+    width: 200px;
+    list-style: none;
+
+
+    .input1{
+        margin-top: 12px;
+    }
+ }
+.dw{
+    background-color:$lightblue;
+    padding-left: 25px;
+    width: 140px;
+    color: $white;
+    margin-left: -8px;
+    border-radius: 3px;
+    margin-top: 1px;
+    height: 32px;
+    padding-bottom: 38px;
+   
+}
+.drift{
+    margin-left: 86px;
+    font-weight: 400;
+    font-size: 26px;
+    margin-bottom:-4px;
+}
+.apps1{
+    margin-left: 83px;
+   
+}
+
+.apps1>button{
+    border: none;
+    color:$grey;
+    background-color: $white;
+}
+.apps{
+    margin-left: 8px;
+    color:$grey;
+    margin-bottom: 6px;
+    font-weight: 500;
+    font-size: 17px;
+   
+}
+
+.notification{
+    color:$white;
+}
+.bell{
+    height: 23px;
+    width: 20px;
+
+}
+.bell1{
+    margin-left: 23px;
+}
+.mail{
+    margin-left: 23px;
+}
+.flag{
+    height: 22px;
+    width: auto;
+}
+.flag1{
+    margin-left: 74px;
+}
+.dw2{
+   margin-left: 2px;
+}
+.btn3{
+    background-color: $white;
+    color: $black;
+    height: 30px;
+    border: none;
+}
+.menuimg{
+
+    height: 35px;
+    border-radius: 50%;
+}
+.meniimg1{
+    margin-left: 83px;
+}
+.mat-toolbar {
+    background: $white;
+    color: $black;
+}
+

@@ -1,0 +1,18 @@
+<mat-card class="card1">
+    <mat-card-content>
+        <h2>Recent Activities</h2>
+        
+            <div *ngFor="let contents of content" class="div1">
+                <div class="img" class="img">
+                <img src="{{contents.image}}" style="height:40Px">
+                </div>
+
+                <div class="img">
+                        {{contents.name}}
+                </div>
+                
+             
+             </div>  
+        
+    </mat-card-content>
+</mat-card>

@@ -1,0 +1,46 @@
+$lightblue:rgb(132, 0, 255);
+$pink:rgb(220, 20, 137);;
+
+
+
+.div1{
+    position: relative;
+    left: 15px;
+    top: -500px;
+}
+.nav-tab1{
+    height: 50px;
+}
+.card1{
+  
+    width: 65%;
+    height: 600px;
+}
+.card2{
+    height: 530px;
+    width: 100%;  
+}
+
+.div2{
+    display: flex;
+}
+.divimg
+{
+    margin-left: 240px;
+    margin-bottom: 10px;
+
+}
+.name1{
+    margin-top: 5px;
+    font-size: large;
+}
+
+.rating{
+    font-size: medium;
+    color: $lightblue;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.btn1{
+    background-color:$pink;
+}

@@ -1,0 +1,16 @@
+$white:white;
+$black:rgba(0, 0, 0, 0.212) ;
+
+
+
+mat-drawer-container{
+    height: 800px;
+}
+
+.container1{
+    margin-top: 10px;
+}
+mat-drawer-content{
+    background-color:$white;
+    border-top:1px solid $black;
+}

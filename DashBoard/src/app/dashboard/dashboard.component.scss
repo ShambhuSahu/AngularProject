@@ -1,0 +1,135 @@
+$green: green;
+$red: red;
+$orange:orange;
+$lightblue:rgb(119, 0, 255);
+$blue: #3b0592;
+$white: white;
+
+
+.card1A{
+    display: flex;
+
+}
+
+.div2{
+
+    height: 130px;
+    width: 350px;
+    margin: 15px;
+    margin-top: 45px;
+    margin-left: 10px;
+    
+}
+
+.div2A{
+    font-size: 20px;
+    font-weight: bold;
+}
+.span1{
+    font-size:18px;
+    color: $green;
+    margin-left: 12px   ;
+}
+
+.span2{
+    font-size:18px;
+   color:$red;
+    margin-left: 12px   ;
+}
+.progress_bar{
+    margin-top: 22px;
+    width: 80%;
+}
+.progress_bar2{
+    margin-top: 22px;
+    width: 80%;
+}
+.span3{
+    font-size:18px;
+   color:$orange;
+    margin-left: 12px   ;
+}
+.span4{
+    font-size:18px;
+    color:$lightblue;
+     margin-left: 12px   ;
+}
+
+.progress_bar3{
+    margin-top: 22px;
+    width: 80%;
+}
+
+.heading{
+    margin-left: 65px;
+    margin-top: 25px;
+}
+
+.card2{
+    display: flex;
+}
+
+.card2A{
+    height: 230px;
+    width: 450px;
+    margin: 22px;
+    margin-left: 12px;
+}
+.A{
+    background-color:$blue;
+    color:$white;
+}
+.mainrow{
+    display: flex;
+}
+.row1{
+    border-right:1px solid $white;
+    width: 50%;
+  
+}
+.row2{
+    width: 50%;
+    margin-left:10px;
+}
+
+.home1{
+    display: flex;
+   
+}
+.home2{
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.sp1{
+    font-size: large;
+}
+.sp2{
+    margin-top: 15px;
+}
+
+.home3{
+    margin-top: 34px;
+}
+a{
+   text-decoration: none;
+   color: $blue;
+}
+.link{
+    margin-top: 12px;
+}
+
+.scrollcontainer{
+
+    display:flex;
+}
+    .scrollmenu{
+        margin-left: 10px;
+        }
+
+.scroll1{
+    margin-left:25px;
+}
+
+.tab{
+    margin-top: 180px;
+}

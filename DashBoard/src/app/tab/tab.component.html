@@ -1,0 +1,42 @@
+<div class="div1">
+    <mat-card class="card1">
+        <mat-card-content>
+            <ul class="nav nav-tabs nav-tab1">
+                <li class="nav-item">
+                    <a class="nav-link active" routerLink="#" routerLinkActivate="list-item-active">All</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Popular</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">New Jersey</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Colorado</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Albama</a>
+                </li>
+
+            </ul>
+            <mat-card class="card2">
+                <mat-card-content>
+                    <div *ngFor="let popular of populars " class="div2">
+                        <div class="div3">
+                            <button type="button" class="btn btn-danger btn1">For Sale</button>
+                            <div class="name1">{{popular.name}}</div>
+                            <div class="rating">{{popular.rating}}</div>
+                            <div class="rating">{{popular.deals}}</div>
+                        </div>
+                        <div class="divimg">
+                            <div><img src="{{popular.image}}" height="150px" style="border-radius: 10px;"></div>
+                        </div>
+                    </div>
+
+                </mat-card-content>
+            </mat-card>
+        </mat-card-content>
+    </mat-card>
+
+
+</div>
